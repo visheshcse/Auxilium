@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/import_contacts"
+            android:title="Manage Contacts" />
+        <item
+            android:id="@+id/view_contacts"
+            android:title="View Contacts" />
+        <item
+            android:id="@+id/emergeny_message"
+            android:title="Emergency Message" />
+        <item
+            android:id="@+id/relief_message"
+            android:title="Relief Message" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share_app"
+                android:title="Share App" />
+        </menu>
+    </item>
+
+    <item android:title="Disclaimer">
+        <menu>
+            <item
+                android:id="@+id/disclaimer_bar"
+                android:title="Disclaimer" />
+        </menu>
+    </item>
+
+</menu>
