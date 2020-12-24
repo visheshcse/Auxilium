@@ -1,6 +1,6 @@
 # Auxilium
 Auxilium is an emergency android app which locates hospitals and police stations within a radius of 5km from your current location. 
-It can also be used to send out emergency messages.
+It can also be used to send out emergency messages to the contacts selected by the user earlier in the app.
 
 The application make use of google maps and places api which you can generate using google api console.
 
